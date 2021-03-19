@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,        
+        "name": "Big Bena",
+        "descricao": "Pão com gergelim, 2 smash burgers 80g cada, american cheese, maionese do Bena, picles, alface e cebola.",
+        "preco": 33.00,
+        "precoPromocional": null
+    },
+    {
+        "id": 2,        
+        "name": "Original",
+        "descricao": "Pão de brioche, 2 smash burgers 80g cada, queijo cheddar tipo americano, cebola picadinha, mostarda especial da casa e ketchup.",
+        "preco": 29.00,
+        "precoPromocional": null
+    },
+    {
+        "id": 3,        
+        "name": "Salada",
+        "descricao": "Pão de brioche, 2 smash burgers 80g cada, queijo cheddar tipo americano, molho de tomate cru, alface americana e cebola roxa.",
+        "preco": 29.00,
+        "precoPromocional": null
+    },
+    {
+        "id": 4,        
+        "name": "Triplo Smash",
+        "descricao": "Pão de brioche, 3 smash burgers 80g cada, queijo chedder tipo americano, bacon artesanal e maionese de limão siciliano.",
+        "preco": 39.00,
+        "precoPromocional": null
+    },
+    {
+        "id": 5,        
+        "name": "Bena Egg",
+        "descricao": "Pão com Gergelim, 2 smash burgers 80g cada, american cheese, bacon artesanal, ovo e maionese de limão siciliano.",
+        "preco": 34.00,
+        "precoPromocional": null
+    },
+    {
+        "id": 6,        
+        "name": "Bacon",
+        "descricao": "Pão de brioche, 2 smash burgers de 80g cada, queijo cheddar tipo americano, cebola crocante e bacon.",
+        "preco": 34.00,
+        "precoPromocional": null
+    },
+    {
+        "id": 7,        
+        "name": "Provobena",
+        "descricao": "Pão brioche, 2 smash burgers 80g cada, um disco de suculento provolone, cebola e tomate chapeado e maionese do bena.",
+        "preco": 34.00,
+        "precoPromocional": null
+    },
+    {
+        "id": 8,        
+        "name": "Oklahoma",
+        "descricao": "Pão de batata, 2 smash burgers de 80g cada com cebola amassada na chapa junto com a carne e queijo cheddar.",
+        "preco": 27.00,
+        "precoPromocional": null
+    }
+]

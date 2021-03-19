@@ -1,0 +1,16 @@
+{
+  "name": "back_end",
+  "version": "1.0.0",
+  "description": "Sistema de API utilizando dados de cardápio",
+  "main": "Server.js",
+  "scripts": {
+    "dev": "nodemon ./src/Server.js"
+  },
+  "author": "Guilherme-Ciano",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
